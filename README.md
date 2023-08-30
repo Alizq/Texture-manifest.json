@@ -1,2 +1,2 @@
-# -minecraft-bedrock-texture-manifest
-manifestの説明
+# [minecraft]texture-manifest
+manifestの説明?
