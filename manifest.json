@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§fby Alizq",
+        "name": "§1lar§fva",
+        "uuid": "f827915b-1e2c-4464-b651-9e3cda80a0b2",
+        "version": [6, 0, 0],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "description": "Sub2Daze",
+            "type": "resources",
+            "uuid": "176980de-25d5-4ce8-b0c5-28bd082b9364",
+            "version": [6, 0, 0]
+        }
+    ],
+    "subpacks": [ 
+ {
+      "folder_name": "tex3",
+      "name": "§l§5Jörqer §r§l- Restart the game",
+      "memory_tier": 3
+      },
+   {  
+      "folder_name": "tex2",
+      "name": "§l§cElectroDaz §r§l- Restart the game",
+      "memory_tier": 2
+      },
+ {
+      "folder_name": "tex1",
+      "name": "§l§1lar§fva §r§l- Restart the game",
+      "memory_tier": 1
+      }           
+   ]
+}
