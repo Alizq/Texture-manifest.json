@@ -1,3 +1,3 @@
 # [minecraft]texture-manifest
 
-manifest.jsonがタイトルや説明が書いてるファイル
+manifest.jsonに解説書いてる
