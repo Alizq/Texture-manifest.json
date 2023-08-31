@@ -1,4 +1,3 @@
 # [minecraft]texture-manifest
-manifestの説明?
 
-manifest.jsonがタイトルや説明が書いてるファイルです
+manifest.jsonがタイトルや説明が書いてるファイル
